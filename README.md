@@ -12,6 +12,8 @@ Este proyecto consiste en el diseño e implementación de una infraestructura vi
 * **Gestión:** Acceso remoto vía Web/SSH.
 
 ### Topología Lógica (Máquinas Virtuales)
+### Topología Lógica (Máquinas Virtuales)
+
 | Rol                   | SO            | Función                                       |
 | :-------------------- | :------------ | :-------------------------------------------- |
 | **K8s Control Plane** | Linux Server  | Gestión del clúster (API, Etcd, Scheduler).   |
@@ -21,6 +23,7 @@ Este proyecto consiste en el diseño e implementación de una infraestructura vi
 | **Cliente**           | Linux Desktop | Pruebas de usuario final y validación de red. |
 
 ## 3. Stack Tecnológico
+
 * **Orquestación:** Kubernetes (K8s).
 * **Runtime:** containerd.
 * **Red y Balanceo:** 
