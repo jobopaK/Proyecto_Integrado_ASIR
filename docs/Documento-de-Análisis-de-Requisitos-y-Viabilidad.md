@@ -1,5 +1,5 @@
-### Tabla de contenido
-<small>
+<details>
+<summary>📋 <strong>Tabla de Contenidos (Haz clic para desplegar)</strong></summary>
 
 - [Documento de Análisis de Requisitos y Viabilidad](#documento-de-análisis-de-requisitos-y-viabilidad)
   - [1. Introducción y Contexto del Proyecto](#1-introducción-y-contexto-del-proyecto)
@@ -17,7 +17,7 @@
   - [4. Anexos y Referencias](#4-anexos-y-referencias)
     - [4.1. Webgrafía y Documentación Oficial](#41-webgrafía-y-documentación-oficial)
 
-</small>
+</details>
 
 
 
